@@ -4,10 +4,10 @@
 
 # Termux
 ```
-apt install ffmpeg
-apt install imagemagick
-apt install nodejs
-apt install git
+Pkg update
+Pkg install nodejs
+Pkg install git
+Pkg install ffmpeg
 git clone https://github.com/Hermanchanel/HermanBot
 cd HermanBot
 npm i
