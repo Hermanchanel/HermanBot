@@ -10,6 +10,5 @@ Pkg install git
 Pkg install ffmpeg
 git clone https://github.com/Hermanchanel/HermanBot
 cd HermanBot
-npm i
 node . (option)
 ````
